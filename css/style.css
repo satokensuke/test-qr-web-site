@@ -128,7 +128,7 @@ nav.sidebar {
   box-sizing: border-box;
   padding-top: 30px;
   top: 0;
-  left: 0;
+  right: 0;
   width: 0;
   white-space: nowrap;
   min-height: 100vh;

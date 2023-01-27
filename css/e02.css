@@ -1,0 +1,10 @@
+
+.menu {
+  display: block;
+  width: 78px;
+  height: 28px;
+  line-height: 28px;
+  border: 2px solid #333;
+  text-align: center;
+  /* margin: 32px auto 0; */
+}

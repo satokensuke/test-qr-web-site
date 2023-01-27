@@ -1,0 +1,41 @@
+
+header #show-sidebar {
+  background: #000;
+  color: #aaa;
+}
+
+/* headear */
+header {
+  background: #eee;
+  padding: 0;
+}
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 0 0 16px;
+}
+
+header ul {
+  display: flex;
+}
+
+header h1 img {
+  vertical-align: middle;
+}
+
+header li a {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  text-align: center;
+}
+
+header li a i {
+  font-size: 24px;
+}
+
+header li + li {
+  margin-left: 0;
+}
